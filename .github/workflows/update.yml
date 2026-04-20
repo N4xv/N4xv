@@ -31,6 +31,13 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Guard: don't fail the job if the generator didn't create hero.svg
+          if [ ! -f hero.svg ]; then
+            echo "hero.svg was not generated; skipping commit."
+            exit 0
+          fi
+
           git add hero.svg
           git diff --cached --quiet || git commit -m "chore: refresh profile [$(date -u '+%Y-%m-%d %H:%M UTC')]"
           git push
