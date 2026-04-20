@@ -34,7 +34,7 @@ def fetch_text(url, timeout=8):
 # ── data fetching ─────────────────────────────────────────────────────────────
 
 print("Fetching visitor IP location...")
-geo = fetch("https://ipapi.co/json/")  # fallback to a fixed location if unavailable
+geo = fetch("https://ipapi.co/json/") 
 if not geo.get("city"):
     geo = {"city": "Unknown", "country_name": "Earth", "latitude": 40.4, "longitude": -3.7,
            "timezone": "Europe/Madrid", "country_code": "ES"}
