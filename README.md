@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align=center>
+  <img src="https://github.com/N4xv/N4xv/blob/main/kirby.gif?raw=true" width=100px>
+  <br>
 
-<!--
-**N4xv/N4xv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://count.getloli.com/get/@:N4xv?darkmode=0"/>
+  <br>
+  
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,go,java">
+  <br>
 
-Here are some ideas to get you started:
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=N4xv&data=followers,repositories,stars&theme=darkmode" width=500>
+  <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
