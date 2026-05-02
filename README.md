@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://github.com/N4xv/N4xv/blob/main/gengar.gif?raw=true" width=100px>
+  <img src="https://github.com/N4xv/N4xv/blob/main/gengar.gif?raw=true" width="200px">
   <br>
 
   <img src="https://count.getloli.com/get/@:N4xv?darkmode=0"/>
