@@ -2,7 +2,7 @@
   <img src="https://github.com/N4xv/N4xv/blob/main/gengar.gif?raw=true" width="200px">
   <br>
 
-  <img src="https://count.getloli.com/get/@:N4xv?darkmode=0"/>
+  <img src="https://count.getloli.com/get/@:N4xv?theme=rule34" alt="Contador de visitas Pokémon" />
   <br>
   
   <img src="https://skillicons.dev/icons?i=html,css,js,py,go,java">
