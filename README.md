@@ -2,7 +2,8 @@
   <img src="https://github.com/N4xv/N4xv/blob/main/gengar.gif?raw=true" width="200px">
   <br>
 
-  <img src="https://count.getloli.com/get/@:N4xv?theme=rule34" alt="Contador de visitas Pokémon" />
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FN4xv&count_bg=%23222222&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitas&edge_flat=false" alt="Contador de Visitas"/>
+
   <br>
   
   <img src="https://skillicons.dev/icons?i=html,css,js,py,go,java">
