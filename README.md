@@ -8,8 +8,6 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,py,go,java"> // es mentira
-
 <br>
 
 <img src="https://github-widgetbox.vercel.app/api/profile?username=N4xv&data=followers,repositories,stars&theme=darkmode" width=500>
