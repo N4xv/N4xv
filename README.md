@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,py,go,java">
+<img src="https://skillicons.dev/icons?i=html,css,js,py,go,java"> // es mentira
 
 <br>
 
